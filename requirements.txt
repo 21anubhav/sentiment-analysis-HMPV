@@ -1,0 +1,18 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Deep Learning
+tensorflow
+
+# NLP
+nltk
+textblob
+vaderSentiment
